@@ -16,7 +16,7 @@ This project is a Warehouse Management System (WMS) developed using .NET Core We
 1. **Clone the Repository**: Clone this repository to your local machine using `git clone`.
 2. **Setup Database**: Ensure you have Microsoft SQL Server installed. Update the connection string in `appsettings.json` to point to your SQL Server instance.
 3. **Run the Backend**: Build and run the backend application using Visual Studio or the .NET Core CLI.
-4. **Run the Frontend**: Open the `skladiste.html` file located in the frontend project directory in your web browser.
+4. **Run the Frontend**: Open the `index.html` file located in the frontend project directory in your web browser.
 5. **Explore API Endpoints**: Use tools like Postman to explore and interact with the API endpoints.
 
 ## Project Start Date
