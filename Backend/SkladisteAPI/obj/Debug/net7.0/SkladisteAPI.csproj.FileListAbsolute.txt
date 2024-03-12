@@ -1,0 +1,304 @@
+C:\Users\slobo\OneDrive\Radna površina\KSS - Projekat\Backend\SkladisteAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\slobo\OneDrive\Radna površina\KSS - Projekat\Backend\SkladisteAPI\bin\Debug\net7.0\appsettings.json
+C:\Users\slobo\OneDrive\Radna površina\KSS - Projekat\Backend\SkladisteAPI\bin\Debug\net7.0\SkladisteAPI.exe
+C:\Users\slobo\OneDrive\Radna površina\KSS - Projekat\Backend\SkladisteAPI\bin\Debug\net7.0\SkladisteAPI.deps.json
+C:\Users\slobo\OneDrive\Radna površina\KSS - Projekat\Backend\SkladisteAPI\bin\Debug\net7.0\SkladisteAPI.runtimeconfig.json
+C:\Users\slobo\OneDrive\Radna površina\KSS - Projekat\Backend\SkladisteAPI\bin\Debug\net7.0\SkladisteAPI.dll
+C:\Users\slobo\OneDrive\Radna površina\KSS - Projekat\Backend\SkladisteAPI\bin\Debug\net7.0\SkladisteAPI.pdb
+C:\Users\slobo\OneDrive\Radna površina\KSS - Projekat\Backend\SkladisteAPI\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\slobo\OneDrive\Radna površina\KSS - Projekat\Backend\SkladisteAPI\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\slobo\OneDrive\Radna površina\KSS - Projekat\Backend\SkladisteAPI\bin\Debug\net7.0\Humanizer.dll
+C:\Users\slobo\OneDrive\Radna površina\KSS - Projekat\Backend\SkladisteAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\slobo\OneDrive\Radna površina\KSS - Projekat\Backend\SkladisteAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\slobo\OneDrive\Radna površina\KSS - Projekat\Backend\SkladisteAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\slobo\OneDrive\Radna površina\KSS - Projekat\Backend\SkladisteAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\slobo\OneDrive\Radna površina\KSS - Projekat\Backend\SkladisteAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\slobo\OneDrive\Radna površina\KSS - Projekat\Backend\SkladisteAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\slobo\OneDrive\Radna površina\KSS - Projekat\Backend\SkladisteAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\slobo\OneDrive\Radna površina\KSS - Projekat\Backend\SkladisteAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\slobo\OneDrive\Radna površina\KSS - Projekat\Backend\SkladisteAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\slobo\OneDrive\Radna površina\KSS - Projekat\Backend\SkladisteAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\slobo\OneDrive\Radna površina\KSS - Projekat\Backend\SkladisteAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\slobo\OneDrive\Radna površina\KSS - Projekat\Backend\SkladisteAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\slobo\OneDrive\Radna površina\KSS - Projekat\Backend\SkladisteAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\slobo\OneDrive\Radna površina\KSS - Projekat\Backend\SkladisteAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\slobo\OneDrive\Radna površina\KSS - Projekat\Backend\SkladisteAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\slobo\OneDrive\Radna površina\KSS - Projekat\Backend\SkladisteAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\slobo\OneDrive\Radna površina\KSS - Projekat\Backend\SkladisteAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\slobo\OneDrive\Radna površina\KSS - Projekat\Backend\SkladisteAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\slobo\OneDrive\Radna površina\KSS - Projekat\Backend\SkladisteAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\slobo\OneDrive\Radna površina\KSS - Projekat\Backend\SkladisteAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\slobo\OneDrive\Radna površina\KSS - Projekat\Backend\SkladisteAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\slobo\OneDrive\Radna površina\KSS - Projekat\Backend\SkladisteAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\slobo\OneDrive\Radna površina\KSS - Projekat\Backend\SkladisteAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\slobo\OneDrive\Radna površina\KSS - Projekat\Backend\SkladisteAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\slobo\OneDrive\Radna površina\KSS - Projekat\Backend\SkladisteAPI\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\slobo\OneDrive\Radna površina\KSS - Projekat\Backend\SkladisteAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\slobo\OneDrive\Radna površina\KSS - Projekat\Backend\SkladisteAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\slobo\OneDrive\Radna površina\KSS - Projekat\Backend\SkladisteAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\slobo\OneDrive\Radna površina\KSS - Projekat\Backend\SkladisteAPI\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\slobo\OneDrive\Radna površina\KSS - Projekat\Backend\SkladisteAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\slobo\OneDrive\Radna površina\KSS - Projekat\Backend\SkladisteAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\slobo\OneDrive\Radna površina\KSS - Projekat\Backend\SkladisteAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\slobo\OneDrive\Radna površina\KSS - Projekat\Backend\SkladisteAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\slobo\OneDrive\Radna površina\KSS - Projekat\Backend\SkladisteAPI\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\slobo\OneDrive\Radna površina\KSS - Projekat\Backend\SkladisteAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\slobo\OneDrive\Radna površina\KSS - Projekat\Backend\SkladisteAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\slobo\OneDrive\Radna površina\KSS - Projekat\Backend\SkladisteAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\slobo\OneDrive\Radna površina\KSS - Projekat\Backend\SkladisteAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\slobo\OneDrive\Radna površina\KSS - Projekat\Backend\SkladisteAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\slobo\OneDrive\Radna površina\KSS - Projekat\Backend\SkladisteAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\slobo\OneDrive\Radna površina\KSS - Projekat\Backend\SkladisteAPI\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\slobo\OneDrive\Radna površina\KSS - Projekat\Backend\SkladisteAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\slobo\OneDrive\Radna površina\KSS - Projekat\Backend\SkladisteAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\slobo\OneDrive\Radna površina\KSS - Projekat\Backend\SkladisteAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\slobo\OneDrive\Radna površina\KSS - Projekat\Backend\SkladisteAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\slobo\OneDrive\Radna površina\KSS - Projekat\Backend\SkladisteAPI\obj\Debug\net7.0\SkladisteAPI.csproj.AssemblyReference.cache
+C:\Users\slobo\OneDrive\Radna površina\KSS - Projekat\Backend\SkladisteAPI\obj\Debug\net7.0\SkladisteAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\slobo\OneDrive\Radna površina\KSS - Projekat\Backend\SkladisteAPI\obj\Debug\net7.0\SkladisteAPI.AssemblyInfoInputs.cache
+C:\Users\slobo\OneDrive\Radna površina\KSS - Projekat\Backend\SkladisteAPI\obj\Debug\net7.0\SkladisteAPI.AssemblyInfo.cs
+C:\Users\slobo\OneDrive\Radna površina\KSS - Projekat\Backend\SkladisteAPI\obj\Debug\net7.0\SkladisteAPI.csproj.CoreCompileInputs.cache
+C:\Users\slobo\OneDrive\Radna površina\KSS - Projekat\Backend\SkladisteAPI\obj\Debug\net7.0\SkladisteAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\slobo\OneDrive\Radna površina\KSS - Projekat\Backend\SkladisteAPI\obj\Debug\net7.0\SkladisteAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\slobo\OneDrive\Radna površina\KSS - Projekat\Backend\SkladisteAPI\obj\Debug\net7.0\staticwebassets\msbuild.SkladisteAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\slobo\OneDrive\Radna površina\KSS - Projekat\Backend\SkladisteAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.SkladisteAPI.props
+C:\Users\slobo\OneDrive\Radna površina\KSS - Projekat\Backend\SkladisteAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SkladisteAPI.props
+C:\Users\slobo\OneDrive\Radna površina\KSS - Projekat\Backend\SkladisteAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SkladisteAPI.props
+C:\Users\slobo\OneDrive\Radna površina\KSS - Projekat\Backend\SkladisteAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\slobo\OneDrive\Radna površina\KSS - Projekat\Backend\SkladisteAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\slobo\OneDrive\Radna površina\KSS - Projekat\Backend\SkladisteAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\slobo\OneDrive\Radna površina\KSS - Projekat\Backend\SkladisteAPI\obj\Debug\net7.0\scopedcss\bundle\SkladisteAPI.styles.css
+C:\Users\slobo\OneDrive\Radna površina\KSS - Projekat\Backend\SkladisteAPI\obj\Debug\net7.0\SkladisteAPI.csproj.CopyComplete
+C:\Users\slobo\OneDrive\Radna površina\KSS - Projekat\Backend\SkladisteAPI\obj\Debug\net7.0\SkladisteAPI.dll
+C:\Users\slobo\OneDrive\Radna površina\KSS - Projekat\Backend\SkladisteAPI\obj\Debug\net7.0\refint\SkladisteAPI.dll
+C:\Users\slobo\OneDrive\Radna površina\KSS - Projekat\Backend\SkladisteAPI\obj\Debug\net7.0\SkladisteAPI.pdb
+C:\Users\slobo\OneDrive\Radna površina\KSS - Projekat\Backend\SkladisteAPI\obj\Debug\net7.0\SkladisteAPI.genruntimeconfig.cache
+C:\Users\slobo\OneDrive\Radna površina\KSS - Projekat\Backend\SkladisteAPI\obj\Debug\net7.0\ref\SkladisteAPI.dll
+C:\Users\Natali\Dropbox\PC\Desktop\Backend\SkladisteAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Natali\Dropbox\PC\Desktop\Backend\SkladisteAPI\bin\Debug\net7.0\appsettings.json
+C:\Users\Natali\Dropbox\PC\Desktop\Backend\SkladisteAPI\bin\Debug\net7.0\SkladisteAPI.exe
+C:\Users\Natali\Dropbox\PC\Desktop\Backend\SkladisteAPI\bin\Debug\net7.0\SkladisteAPI.deps.json
+C:\Users\Natali\Dropbox\PC\Desktop\Backend\SkladisteAPI\bin\Debug\net7.0\SkladisteAPI.runtimeconfig.json
+C:\Users\Natali\Dropbox\PC\Desktop\Backend\SkladisteAPI\bin\Debug\net7.0\SkladisteAPI.dll
+C:\Users\Natali\Dropbox\PC\Desktop\Backend\SkladisteAPI\bin\Debug\net7.0\SkladisteAPI.pdb
+C:\Users\Natali\Dropbox\PC\Desktop\Backend\SkladisteAPI\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Natali\Dropbox\PC\Desktop\Backend\SkladisteAPI\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Natali\Dropbox\PC\Desktop\Backend\SkladisteAPI\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Natali\Dropbox\PC\Desktop\Backend\SkladisteAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Natali\Dropbox\PC\Desktop\Backend\SkladisteAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Natali\Dropbox\PC\Desktop\Backend\SkladisteAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Natali\Dropbox\PC\Desktop\Backend\SkladisteAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Natali\Dropbox\PC\Desktop\Backend\SkladisteAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Natali\Dropbox\PC\Desktop\Backend\SkladisteAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Natali\Dropbox\PC\Desktop\Backend\SkladisteAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Natali\Dropbox\PC\Desktop\Backend\SkladisteAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Natali\Dropbox\PC\Desktop\Backend\SkladisteAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Natali\Dropbox\PC\Desktop\Backend\SkladisteAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Natali\Dropbox\PC\Desktop\Backend\SkladisteAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Natali\Dropbox\PC\Desktop\Backend\SkladisteAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Natali\Dropbox\PC\Desktop\Backend\SkladisteAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Natali\Dropbox\PC\Desktop\Backend\SkladisteAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Natali\Dropbox\PC\Desktop\Backend\SkladisteAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Natali\Dropbox\PC\Desktop\Backend\SkladisteAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Natali\Dropbox\PC\Desktop\Backend\SkladisteAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Natali\Dropbox\PC\Desktop\Backend\SkladisteAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Natali\Dropbox\PC\Desktop\Backend\SkladisteAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Natali\Dropbox\PC\Desktop\Backend\SkladisteAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Natali\Dropbox\PC\Desktop\Backend\SkladisteAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Natali\Dropbox\PC\Desktop\Backend\SkladisteAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Natali\Dropbox\PC\Desktop\Backend\SkladisteAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Natali\Dropbox\PC\Desktop\Backend\SkladisteAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Natali\Dropbox\PC\Desktop\Backend\SkladisteAPI\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Natali\Dropbox\PC\Desktop\Backend\SkladisteAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Natali\Dropbox\PC\Desktop\Backend\SkladisteAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Natali\Dropbox\PC\Desktop\Backend\SkladisteAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Natali\Dropbox\PC\Desktop\Backend\SkladisteAPI\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Natali\Dropbox\PC\Desktop\Backend\SkladisteAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Natali\Dropbox\PC\Desktop\Backend\SkladisteAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Natali\Dropbox\PC\Desktop\Backend\SkladisteAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Natali\Dropbox\PC\Desktop\Backend\SkladisteAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Natali\Dropbox\PC\Desktop\Backend\SkladisteAPI\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Natali\Dropbox\PC\Desktop\Backend\SkladisteAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Natali\Dropbox\PC\Desktop\Backend\SkladisteAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Natali\Dropbox\PC\Desktop\Backend\SkladisteAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Natali\Dropbox\PC\Desktop\Backend\SkladisteAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Natali\Dropbox\PC\Desktop\Backend\SkladisteAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Natali\Dropbox\PC\Desktop\Backend\SkladisteAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Natali\Dropbox\PC\Desktop\Backend\SkladisteAPI\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Natali\Dropbox\PC\Desktop\Backend\SkladisteAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Natali\Dropbox\PC\Desktop\Backend\SkladisteAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Natali\Dropbox\PC\Desktop\Backend\SkladisteAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Natali\Dropbox\PC\Desktop\Backend\SkladisteAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Natali\Dropbox\PC\Desktop\Backend\SkladisteAPI\obj\Debug\net7.0\SkladisteAPI.csproj.AssemblyReference.cache
+C:\Users\Natali\Dropbox\PC\Desktop\Backend\SkladisteAPI\obj\Debug\net7.0\SkladisteAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Natali\Dropbox\PC\Desktop\Backend\SkladisteAPI\obj\Debug\net7.0\SkladisteAPI.AssemblyInfoInputs.cache
+C:\Users\Natali\Dropbox\PC\Desktop\Backend\SkladisteAPI\obj\Debug\net7.0\SkladisteAPI.AssemblyInfo.cs
+C:\Users\Natali\Dropbox\PC\Desktop\Backend\SkladisteAPI\obj\Debug\net7.0\SkladisteAPI.csproj.CoreCompileInputs.cache
+C:\Users\Natali\Dropbox\PC\Desktop\Backend\SkladisteAPI\obj\Debug\net7.0\SkladisteAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Natali\Dropbox\PC\Desktop\Backend\SkladisteAPI\obj\Debug\net7.0\SkladisteAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Natali\Dropbox\PC\Desktop\Backend\SkladisteAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Natali\Dropbox\PC\Desktop\Backend\SkladisteAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Natali\Dropbox\PC\Desktop\Backend\SkladisteAPI\obj\Debug\net7.0\staticwebassets\msbuild.SkladisteAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Natali\Dropbox\PC\Desktop\Backend\SkladisteAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.SkladisteAPI.props
+C:\Users\Natali\Dropbox\PC\Desktop\Backend\SkladisteAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SkladisteAPI.props
+C:\Users\Natali\Dropbox\PC\Desktop\Backend\SkladisteAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SkladisteAPI.props
+C:\Users\Natali\Dropbox\PC\Desktop\Backend\SkladisteAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Natali\Dropbox\PC\Desktop\Backend\SkladisteAPI\obj\Debug\net7.0\scopedcss\bundle\SkladisteAPI.styles.css
+C:\Users\Natali\Dropbox\PC\Desktop\Backend\SkladisteAPI\obj\Debug\net7.0\SkladisteAPI.csproj.CopyComplete
+C:\Users\Natali\Dropbox\PC\Desktop\Backend\SkladisteAPI\obj\Debug\net7.0\SkladisteAPI.dll
+C:\Users\Natali\Dropbox\PC\Desktop\Backend\SkladisteAPI\obj\Debug\net7.0\refint\SkladisteAPI.dll
+C:\Users\Natali\Dropbox\PC\Desktop\Backend\SkladisteAPI\obj\Debug\net7.0\SkladisteAPI.pdb
+C:\Users\Natali\Dropbox\PC\Desktop\Backend\SkladisteAPI\obj\Debug\net7.0\SkladisteAPI.genruntimeconfig.cache
+C:\Users\Natali\Dropbox\PC\Desktop\Backend\SkladisteAPI\obj\Debug\net7.0\ref\SkladisteAPI.dll
+C:\Users\neven\OneDrive\Desktop\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\neven\OneDrive\Desktop\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\appsettings.json
+C:\Users\neven\OneDrive\Desktop\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\SkladisteAPI.exe
+C:\Users\neven\OneDrive\Desktop\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\SkladisteAPI.deps.json
+C:\Users\neven\OneDrive\Desktop\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\SkladisteAPI.runtimeconfig.json
+C:\Users\neven\OneDrive\Desktop\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\SkladisteAPI.dll
+C:\Users\neven\OneDrive\Desktop\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\SkladisteAPI.pdb
+C:\Users\neven\OneDrive\Desktop\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\neven\OneDrive\Desktop\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\neven\OneDrive\Desktop\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\Humanizer.dll
+C:\Users\neven\OneDrive\Desktop\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\neven\OneDrive\Desktop\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\neven\OneDrive\Desktop\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\neven\OneDrive\Desktop\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\neven\OneDrive\Desktop\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\neven\OneDrive\Desktop\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\neven\OneDrive\Desktop\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\neven\OneDrive\Desktop\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\neven\OneDrive\Desktop\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\neven\OneDrive\Desktop\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\neven\OneDrive\Desktop\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\neven\OneDrive\Desktop\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\neven\OneDrive\Desktop\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\neven\OneDrive\Desktop\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\neven\OneDrive\Desktop\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\neven\OneDrive\Desktop\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\neven\OneDrive\Desktop\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\neven\OneDrive\Desktop\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\neven\OneDrive\Desktop\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\neven\OneDrive\Desktop\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\neven\OneDrive\Desktop\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\neven\OneDrive\Desktop\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\neven\OneDrive\Desktop\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\neven\OneDrive\Desktop\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\neven\OneDrive\Desktop\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\neven\OneDrive\Desktop\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\neven\OneDrive\Desktop\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\neven\OneDrive\Desktop\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\neven\OneDrive\Desktop\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\neven\OneDrive\Desktop\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\neven\OneDrive\Desktop\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\neven\OneDrive\Desktop\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\neven\OneDrive\Desktop\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\neven\OneDrive\Desktop\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\neven\OneDrive\Desktop\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\neven\OneDrive\Desktop\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\neven\OneDrive\Desktop\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\neven\OneDrive\Desktop\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\neven\OneDrive\Desktop\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\neven\OneDrive\Desktop\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\neven\OneDrive\Desktop\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\neven\OneDrive\Desktop\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\neven\OneDrive\Desktop\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\neven\OneDrive\Desktop\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\neven\OneDrive\Desktop\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\neven\OneDrive\Desktop\SUS\SUS\Backend\SkladisteAPI\obj\Debug\net7.0\SkladisteAPI.csproj.AssemblyReference.cache
+C:\Users\neven\OneDrive\Desktop\SUS\SUS\Backend\SkladisteAPI\obj\Debug\net7.0\SkladisteAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neven\OneDrive\Desktop\SUS\SUS\Backend\SkladisteAPI\obj\Debug\net7.0\SkladisteAPI.AssemblyInfoInputs.cache
+C:\Users\neven\OneDrive\Desktop\SUS\SUS\Backend\SkladisteAPI\obj\Debug\net7.0\SkladisteAPI.AssemblyInfo.cs
+C:\Users\neven\OneDrive\Desktop\SUS\SUS\Backend\SkladisteAPI\obj\Debug\net7.0\SkladisteAPI.csproj.CoreCompileInputs.cache
+C:\Users\neven\OneDrive\Desktop\SUS\SUS\Backend\SkladisteAPI\obj\Debug\net7.0\SkladisteAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\neven\OneDrive\Desktop\SUS\SUS\Backend\SkladisteAPI\obj\Debug\net7.0\SkladisteAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\neven\OneDrive\Desktop\SUS\SUS\Backend\SkladisteAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\neven\OneDrive\Desktop\SUS\SUS\Backend\SkladisteAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\neven\OneDrive\Desktop\SUS\SUS\Backend\SkladisteAPI\obj\Debug\net7.0\staticwebassets\msbuild.SkladisteAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\neven\OneDrive\Desktop\SUS\SUS\Backend\SkladisteAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.SkladisteAPI.props
+C:\Users\neven\OneDrive\Desktop\SUS\SUS\Backend\SkladisteAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SkladisteAPI.props
+C:\Users\neven\OneDrive\Desktop\SUS\SUS\Backend\SkladisteAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SkladisteAPI.props
+C:\Users\neven\OneDrive\Desktop\SUS\SUS\Backend\SkladisteAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\neven\OneDrive\Desktop\SUS\SUS\Backend\SkladisteAPI\obj\Debug\net7.0\scopedcss\bundle\SkladisteAPI.styles.css
+C:\Users\neven\OneDrive\Desktop\SUS\SUS\Backend\SkladisteAPI\obj\Debug\net7.0\SkladisteAPI.csproj.CopyComplete
+C:\Users\neven\OneDrive\Desktop\SUS\SUS\Backend\SkladisteAPI\obj\Debug\net7.0\SkladisteAPI.dll
+C:\Users\neven\OneDrive\Desktop\SUS\SUS\Backend\SkladisteAPI\obj\Debug\net7.0\refint\SkladisteAPI.dll
+C:\Users\neven\OneDrive\Desktop\SUS\SUS\Backend\SkladisteAPI\obj\Debug\net7.0\SkladisteAPI.pdb
+C:\Users\neven\OneDrive\Desktop\SUS\SUS\Backend\SkladisteAPI\obj\Debug\net7.0\SkladisteAPI.genruntimeconfig.cache
+C:\Users\neven\OneDrive\Desktop\SUS\SUS\Backend\SkladisteAPI\obj\Debug\net7.0\ref\SkladisteAPI.dll
+C:\Users\neven\OneDrive\Desktop\Projekti\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\neven\OneDrive\Desktop\Projekti\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\appsettings.json
+C:\Users\neven\OneDrive\Desktop\Projekti\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\SkladisteAPI.exe
+C:\Users\neven\OneDrive\Desktop\Projekti\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\SkladisteAPI.deps.json
+C:\Users\neven\OneDrive\Desktop\Projekti\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\SkladisteAPI.runtimeconfig.json
+C:\Users\neven\OneDrive\Desktop\Projekti\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\SkladisteAPI.dll
+C:\Users\neven\OneDrive\Desktop\Projekti\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\SkladisteAPI.pdb
+C:\Users\neven\OneDrive\Desktop\Projekti\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\neven\OneDrive\Desktop\Projekti\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\neven\OneDrive\Desktop\Projekti\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\Humanizer.dll
+C:\Users\neven\OneDrive\Desktop\Projekti\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\neven\OneDrive\Desktop\Projekti\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\neven\OneDrive\Desktop\Projekti\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\neven\OneDrive\Desktop\Projekti\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\neven\OneDrive\Desktop\Projekti\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\neven\OneDrive\Desktop\Projekti\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\neven\OneDrive\Desktop\Projekti\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\neven\OneDrive\Desktop\Projekti\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\neven\OneDrive\Desktop\Projekti\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\neven\OneDrive\Desktop\Projekti\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\neven\OneDrive\Desktop\Projekti\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\neven\OneDrive\Desktop\Projekti\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\neven\OneDrive\Desktop\Projekti\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\neven\OneDrive\Desktop\Projekti\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\neven\OneDrive\Desktop\Projekti\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\neven\OneDrive\Desktop\Projekti\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\neven\OneDrive\Desktop\Projekti\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\neven\OneDrive\Desktop\Projekti\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\neven\OneDrive\Desktop\Projekti\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\neven\OneDrive\Desktop\Projekti\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\neven\OneDrive\Desktop\Projekti\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\neven\OneDrive\Desktop\Projekti\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\neven\OneDrive\Desktop\Projekti\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\neven\OneDrive\Desktop\Projekti\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\neven\OneDrive\Desktop\Projekti\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\neven\OneDrive\Desktop\Projekti\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\neven\OneDrive\Desktop\Projekti\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\neven\OneDrive\Desktop\Projekti\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\neven\OneDrive\Desktop\Projekti\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\neven\OneDrive\Desktop\Projekti\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\neven\OneDrive\Desktop\Projekti\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\neven\OneDrive\Desktop\Projekti\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\neven\OneDrive\Desktop\Projekti\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\neven\OneDrive\Desktop\Projekti\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\neven\OneDrive\Desktop\Projekti\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\neven\OneDrive\Desktop\Projekti\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\neven\OneDrive\Desktop\Projekti\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\neven\OneDrive\Desktop\Projekti\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\neven\OneDrive\Desktop\Projekti\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\neven\OneDrive\Desktop\Projekti\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\neven\OneDrive\Desktop\Projekti\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\neven\OneDrive\Desktop\Projekti\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\neven\OneDrive\Desktop\Projekti\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\neven\OneDrive\Desktop\Projekti\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\neven\OneDrive\Desktop\Projekti\SUS\SUS\Backend\SkladisteAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\neven\OneDrive\Desktop\Projekti\SUS\SUS\Backend\SkladisteAPI\obj\Debug\net7.0\SkladisteAPI.csproj.AssemblyReference.cache
+C:\Users\neven\OneDrive\Desktop\Projekti\SUS\SUS\Backend\SkladisteAPI\obj\Debug\net7.0\SkladisteAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neven\OneDrive\Desktop\Projekti\SUS\SUS\Backend\SkladisteAPI\obj\Debug\net7.0\SkladisteAPI.AssemblyInfoInputs.cache
+C:\Users\neven\OneDrive\Desktop\Projekti\SUS\SUS\Backend\SkladisteAPI\obj\Debug\net7.0\SkladisteAPI.AssemblyInfo.cs
+C:\Users\neven\OneDrive\Desktop\Projekti\SUS\SUS\Backend\SkladisteAPI\obj\Debug\net7.0\SkladisteAPI.csproj.CoreCompileInputs.cache
+C:\Users\neven\OneDrive\Desktop\Projekti\SUS\SUS\Backend\SkladisteAPI\obj\Debug\net7.0\SkladisteAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\neven\OneDrive\Desktop\Projekti\SUS\SUS\Backend\SkladisteAPI\obj\Debug\net7.0\SkladisteAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\neven\OneDrive\Desktop\Projekti\SUS\SUS\Backend\SkladisteAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\neven\OneDrive\Desktop\Projekti\SUS\SUS\Backend\SkladisteAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\neven\OneDrive\Desktop\Projekti\SUS\SUS\Backend\SkladisteAPI\obj\Debug\net7.0\staticwebassets\msbuild.SkladisteAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\neven\OneDrive\Desktop\Projekti\SUS\SUS\Backend\SkladisteAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.SkladisteAPI.props
+C:\Users\neven\OneDrive\Desktop\Projekti\SUS\SUS\Backend\SkladisteAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SkladisteAPI.props
+C:\Users\neven\OneDrive\Desktop\Projekti\SUS\SUS\Backend\SkladisteAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SkladisteAPI.props
+C:\Users\neven\OneDrive\Desktop\Projekti\SUS\SUS\Backend\SkladisteAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\neven\OneDrive\Desktop\Projekti\SUS\SUS\Backend\SkladisteAPI\obj\Debug\net7.0\scopedcss\bundle\SkladisteAPI.styles.css
+C:\Users\neven\OneDrive\Desktop\Projekti\SUS\SUS\Backend\SkladisteAPI\obj\Debug\net7.0\SkladisteAPI.csproj.CopyComplete
+C:\Users\neven\OneDrive\Desktop\Projekti\SUS\SUS\Backend\SkladisteAPI\obj\Debug\net7.0\SkladisteAPI.dll
+C:\Users\neven\OneDrive\Desktop\Projekti\SUS\SUS\Backend\SkladisteAPI\obj\Debug\net7.0\refint\SkladisteAPI.dll
+C:\Users\neven\OneDrive\Desktop\Projekti\SUS\SUS\Backend\SkladisteAPI\obj\Debug\net7.0\SkladisteAPI.pdb
+C:\Users\neven\OneDrive\Desktop\Projekti\SUS\SUS\Backend\SkladisteAPI\obj\Debug\net7.0\SkladisteAPI.genruntimeconfig.cache
+C:\Users\neven\OneDrive\Desktop\Projekti\SUS\SUS\Backend\SkladisteAPI\obj\Debug\net7.0\ref\SkladisteAPI.dll

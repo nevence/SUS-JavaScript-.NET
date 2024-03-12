@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>SUS - Proizvodi u opticaju</title>
+    <!-- CSS FAJLOVI -->
+    <link rel="stylesheet" href="css/bootstrap.min.css" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <!-- Navbar -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark mb-4">
+      <div class="container">
+        <a class="navbar-brand" href="index.html">SUS</a>
+        <button
+          class="navbar-toggler"
+          type="button"
+          data-toggle="collapse"
+          data-target="#navbarNav"
+          aria-controls="navbarNav"
+          aria-expanded="false"
+          aria-label="Toggle navigation"
+        >
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item">
+              <a id="skladiste-meni" class="nav-link" href="skladiste.html"
+                >Popunjenost</a
+              >
+            </li>
+            <li class="nav-item">
+              <a
+                id="proizvodilager-meni"
+                class="nav-link"
+                href="proizvodilager.html"
+                >Proizvodi na lageru</a
+              >
+            </li>
+            <li class="nav-item">
+              <a
+                id="opticajproizvoda-meni"
+                class="nav-link"
+                href="opticajproizvoda.html"
+                >Proizvodi u opticaju</a
+              >
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+    <!-- Glavni kontejner -->
+    <div class="container">
+      <div class="row">
+        <!-- Drugi Idiv -->
+        <div class="col-md-12">
+          <div class="mb-3">
+            <h3>Proizvodi na lageru:</h3>
+          </div>
+          <div>
+            <!-- SortDiv -->
+            <div id="sortDiv-SkladisteProizvod" class="sortDiv"></div>
+            <!-- TabelDiv -->
+            <div id="tabelDiv-SkladisteProizvod" class="tabelDiv">
+              <table class="table text-center" id="skladisteproizvod-tabela">
+                <thead>
+                  <tr>
+                    <th>ID</th>
+                    <th>Naziv</th>
+                    <th>Kategorija</th>
+                    <th>Cena</th>
+                    <th>Kolicina</th>
+                    <th>Akcije</th>
+                  </tr>
+                </thead>
+                <tbody id="skladisteproizvod-telo"></tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+
+        <!-- Drugi Idiv -->
+        <div class="col-md-6">
+          <div class="mb-3">
+            <h3>Poruči novi proizvod:</h3>
+          </div>
+          <div class="dodaj-novi-proizvod">
+            <form class="needs-validation" novalidate>
+              <div class="form-group">
+                <label for="izaberi-proizvod">Izaberi proizvod</label>
+                <select
+                  id="izaberi-proizvod"
+                  class="form-control"
+                  required
+                ></select>
+                <div class="invalid-feedback">Molimo odaberite proizvod.</div>
+              </div>
+              <div class="form-group">
+                <label for="kolicina-proizvod">Kolicina</label>
+                <input
+                  type="number"
+                  class="form-control"
+                  id="kolicina-proizvod"
+                  placeholder=""
+                  required
+                />
+                <div class="invalid-feedback">
+                  Molimo unesite ispravnu kolicinu.
+                </div>
+              </div>
+              <button id="dugme-poruci" type="submit" class="btn btn-primary">
+                Poruči
+              </button>
+            </form>
+            <!-- <script>
+              // Example starter JavaScript for disabling form submissions if there are invalid fields
+              (function () {
+                "use strict";
+                window.addEventListener(
+                  "load",
+                  function () {
+                    // Fetch all the forms we want to apply custom Bootstrap validation styles to
+                    var forms =
+                      document.getElementsByClassName("needs-validation");
+                    // Loop over them and prevent submission
+                    var validation = Array.prototype.filter.call(
+                      forms,
+                      function (form) {
+                        form.addEventListener(
+                          "submit",
+                          function (event) {
+                            if (form.checkValidity() === false) {
+                              event.preventDefault();
+                              event.stopPropagation();
+                            }
+                            form.classList.add("was-validated");
+                          },
+                          false
+                        );
+                      }
+                    );
+                  },
+                  false
+                );
+              })();
+            </script> -->
+          </div>
+        </div>
+        <!-- Prvi Idiv -->
+        <div class="col-md-6">
+          <div class="mb-3">
+            <h3>Isporuči proizvod:</h3>
+          </div>
+          <div class="isporuci-proizvod">
+            <form class="needs-validation" novalidate>
+              <div class="form-group">
+                <label for="odaberi-proizvod">Izaberi proizvod</label>
+                <select
+                  id="odaberi-proizvod"
+                  class="form-control"
+                  required
+                ></select>
+                <div class="invalid-feedback">Molimo odaberite proizvod.</div>
+              </div>
+              <div class="form-group">
+                <label for="kolicina-proizvod-isporuka">Kolicina</label>
+                <input
+                  type="number"
+                  class="form-control"
+                  id="kolicina-proizvod-isporuka"
+                  placeholder=""
+                  required
+                />
+                <div class="invalid-feedback">
+                  Molimo unesite ispravnu kolicinu.
+                </div>
+              </div>
+              <button id="dugme-isporuci" type="submit" class="btn btn-primary">
+                Isporuči
+              </button>
+            </form>
+            <!-- <script>
+              // Example starter JavaScript for disabling form submissions if there are invalid fields
+              (function () {
+                "use strict";
+                window.addEventListener(
+                  "load",
+                  function () {
+                    // Fetch all the forms we want to apply custom Bootstrap validation styles to
+                    var forms =
+                      document.getElementsByClassName("needs-validation");
+                    // Loop over them and prevent submission
+                    var validation = Array.prototype.filter.call(
+                      forms,
+                      function (form) {
+                        form.addEventListener(
+                          "submit",
+                          function (event) {
+                            if (form.checkValidity() === false) {
+                              event.preventDefault();
+                              event.stopPropagation();
+                            }
+                            form.classList.add("was-validated");
+                          },
+                          false
+                        );
+                      }
+                    );
+                  },
+                  false
+                );
+              })();
+            </script> -->
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- jQuery prvo -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="javascript/proizvodilager.js" type="module"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+  </body>
+</html>

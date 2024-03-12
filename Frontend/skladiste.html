@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>SUS - Popunjenost</title>
+    <!-- CSS FAJLOVI -->
+    <link rel="stylesheet" href="css/bootstrap.min.css" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <!-- Navbar -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark mb-4">
+      <div class="container">
+        <a class="navbar-brand" href="index.html">SUS</a>
+        <button
+          class="navbar-toggler"
+          type="button"
+          data-toggle="collapse"
+          data-target="#navbarNav"
+          aria-controls="navbarNav"
+          aria-expanded="false"
+          aria-label="Toggle navigation"
+        >
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item">
+              <a id="skladiste-meni" class="nav-link" href="skladiste.html"
+                >Popunjenost</a
+              >
+            </li>
+            <li class="nav-item">
+              <a
+                id="proizvodilager-meni"
+                class="nav-link"
+                href="proizvodilager.html"
+                >Proizvodi na lageru</a
+              >
+            </li>
+            <li class="nav-item">
+              <a
+                id="opticajproizvoda-meni"
+                class="nav-link"
+                href="opticajproizvoda.html"
+                >Proizvodi u opticaju</a
+              >
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+    <!-- Glavni kontejner -->
+    <div class="container">
+      <div class="row">
+        <!-- Prvi Idiv -->
+        <div class="col-md-12">
+          <div class="mb-3">
+            <div
+              class="naslov d-flex flex-column align-items-center justify-content-center"
+            >
+              <h2>Grafički prikaz popunjenosti kapaciteta skladišta:</h2>
+              <h4 id="naziv-skladista"></h4>
+            </div>
+            <div class="parametri col-12">
+              <div class="row justify-content-between">
+                <div class="kapacitet d-flex col-4 justify-content-center">
+                  <h5 id="kapacitet"></h5>
+                </div>
+                <div class="popunjeno d-flex col-4 justify-content-center">
+                  <h5 id="popunjeno"></h5>
+                </div>
+                <div class="dostupno d-flex col-4 justify-content-center">
+                  <h5 id="dostupno"></h5>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div>
+            <!-- Prilagođeni Bootstrap progress bar -->
+            <div class="custom-progress-container">
+              <div class="progress custom-progress-bar">
+                <div
+                  class="progress-bar"
+                  role="progressbar"
+                  style="width: 0%"
+                  aria-valuenow="50"
+                  aria-valuemin="0"
+                  aria-valuemax="100"
+                ></div>
+              </div>
+            </div>
+            <div class="procenat-popunjenosti d-flex justify-content-center">
+              <h2 class="" id="procenat-popunjenosti"></h2>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- jQuery prvo -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="javascript/skladiste.js" type="module"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+  </body>
+</html>
